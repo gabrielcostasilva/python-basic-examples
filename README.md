@@ -1,6 +1,6 @@
 # Python Basic Examples
 
-This repo features several Python basic examples that I coded to practicing while learning Python. Part of the code came from the beginners programming book "500 Algoritmos Resolvidos". 
+This repo features several Python basic examples that I coded while learning Python. Several examples came from the beginners programming book "500 Algoritmos Resolvidos". 
 
 
 ## Folders
